@@ -1,0 +1,5 @@
+module Sustainable
+  module Sleepwear
+    VERSION = "0.1.0"
+  end
+end
